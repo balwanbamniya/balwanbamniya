@@ -62,9 +62,7 @@ const focus = {
 ## 📊 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balwanbamniya\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balwanbamniya\&layout=compact\&hide_border=true)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs?username=balwanbamniya&layout=donut-vertical&langs_count=5&theme=dark_github)
 
 ---
 
